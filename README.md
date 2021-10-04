@@ -1,0 +1,2 @@
+# faktoriyelbulma
+ faktoriyel hesaplar
